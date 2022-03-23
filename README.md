@@ -8,3 +8,13 @@ There are still things TODO such as:
 * add a light/dark mode
 * add a selector element so that we can filter between ALL and COMPLETED tasks
 * allow the ability to restore deleted tasks incase we accidentally delete something we need still need TODO
+* general styling things such as
+*   -- Fix List so that each item aligns nicely
+*   -- LI is not centered how I would like it to be
+
+
+
+
+GENERAL NOTES:
+
+Again, this is just practice for React and general functionality, not CSS.
