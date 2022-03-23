@@ -1,3 +1,5 @@
+live demo: https://wesleyinsley.com/todo-app/
+
 Basic TODO App Created Using React
 
 The main purpose of this project was to practice:
