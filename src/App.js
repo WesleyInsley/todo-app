@@ -24,6 +24,9 @@ function App() {
             setTodos={setTodos}
           />
       </div>
+      <p>
+        <a href="https://wesleyinsley.com/">Back To Main Page</a> | <a href="https://github.com/WesleyInsley/todo-app" target="_blank">GitHub</a>
+      </p>
     </div>
   );
 }

@@ -28,6 +28,10 @@ li {
   margin-top: 25px;
 }
 
+a {
+  color: rgb(85,85,85);
+}
+
 /* container styling  */
 
 .container {
